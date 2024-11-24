@@ -19,3 +19,8 @@ AI 大模型相关算法中手写的面试题，（非 LeetCode），一般比 L
 | 手写 LayerNorm | ⭐⭐ | 归一化 | TODO |  |
 | 手写 BatchNorm | ⭐⭐ | 归一化 | TODO |  |
 | 手写 Softmax | ⭐⭐ | 激活函数 | TODO |  |
+
+## 一般不会考的
+| 题目 | 难度 | 知识点 | 文字解读 | 视频解读 |
+| ---- | ---- | ---- | ---- | ---- |
+| 手写 LoRA | ⭐⭐⭐⭐⭐ | 目的是为了深入了解 LoRA | [LoRA 原理和 PyTorch 代码实现](https://bruceyuan.com/hands-on-code/hands-on-lora.html) <br/> [![中文可运行 Notebook](https://img.shields.io/badge/可运行notebook-openbayes-pink)](https://openbayes.com/console/bbruceyuan/containers/OPg9Oo99ET6) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fHmkYyE2w)](https://www.bilibili.com/video/BV1fHmkYyE2w/)<br /> |
